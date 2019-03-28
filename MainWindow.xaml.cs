@@ -1,4 +1,8 @@
-﻿using System;
+/*Jesse Stanley
+ *3/28/2019
+ *Good times Program
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
