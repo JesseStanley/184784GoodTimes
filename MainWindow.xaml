@@ -1,0 +1,14 @@
+﻿<Window x:Class="_184784GoodTimes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_184784GoodTimes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <TextBox x:Name="txtTimes"></TextBox>
+        <Button x:Name="btnTimes" Click="btnTimes_Click">Click For The Times</Button>
+        <Label x:Name="lblTimes"></Label>
+    </StackPanel>
+</Window>
